@@ -1,0 +1,4 @@
+uvicorn.pid
+.env
+.idea
+.venv

@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standart]
+SQLAlchemy
+pydantic
+alembic
+python-slugify
+postgresql@14
+asyncpg
+psycopg2
+greenlet
+python-dotenv
+passlib
+bcrypt==4.0.1
+python-multipart
+PyJWT
